@@ -85,8 +85,8 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 Barterlink is a new method of payment on the Internet using electronic currency. Each of the NFTs is unique and exists in a single copy, it cannot be divided and all information about its author, buyer and all transactions with it is securely stored in the blockchain. 
-Barter link is a dedicated MarketPlace for NFTs shops and NFT assets stores, crypto Art markets and for Digital assets biding websites. It is very nicely designed with modern features & coded with the latest technology.
-The interface functionality allows people to get familiar with NFT in detail and buy for their own purposes. NFT is the marketplace where you can buy different products with cryptocurrency, starting with domain names and finishing with works of art.
+<br>Barter link is a dedicated MarketPlace for NFTs shops and NFT assets stores, crypto Art markets and for Digital assets biding websites. It is very nicely designed with modern features & coded with the latest technology.
+<br>The interface functionality allows people to get familiar with NFT in detail and buy for their own purposes. NFT is the marketplace where you can buy different products with cryptocurrency, starting with domain names and finishing with works of art.
 
 <!-- Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
