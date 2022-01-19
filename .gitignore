@@ -1,0 +1,4 @@
+/client/node_modules
+/smart_contracts/node_modules
+
+.DS_Store
