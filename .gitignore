@@ -1,4 +1,4 @@
 /client/node_modules
 /smart_contracts/node_modules
-
+credentials.txt
 .DS_Store
