@@ -1,0 +1,123 @@
+18:07:15.250	Initializing build environment. This may take up to a few minutes to complete
+18:09:10.603	Success: Finished initializing build environment
+18:09:10.603	Cloning repository...
+18:09:13.750	Success: Finished cloning repository files
+18:09:14.692	Installing dependencies
+18:09:14.695	Python version set to 2.7
+18:09:15.492	v12.18.0 is already installed.
+18:09:15.920	Now using node v12.18.0 (npm v6.14.4)
+18:09:15.959	Started restoring cached build plugins
+18:09:15.963	Finished restoring cached build plugins
+18:09:16.070	Attempting ruby version 2.7.1, read from environment
+18:09:16.972	Using ruby version 2.7.1
+18:09:17.206	Using PHP version 5.6
+18:09:17.235	5.2 is already installed.
+18:09:17.240	Using Swift version 5.2
+18:09:17.240	Started restoring cached node modules
+18:09:17.243	Finished restoring cached node modules
+18:09:17.398	Installing NPM modules using NPM version 6.14.4
+18:09:25.272	
+18:09:25.272	> core-js-pure@3.20.3 postinstall /opt/buildhome/repo/node_modules/core-js-pure
+18:09:25.272	> node -e "try{require('./postinstall')}catch(e){}"
+18:09:25.272	
+18:09:25.318	[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+18:09:25.318	
+18:09:25.318	[96mThe project needs your help! Please consider supporting of core-js:[0m
+18:09:25.318	[96m>[94m https://opencollective.com/core-js [0m
+18:09:25.318	[96m>[94m https://patreon.com/zloirock [0m
+18:09:25.318	[96m>[94m https://paypal.me/zloirock [0m
+18:09:25.318	[96m>[94m bitcoin: bc1qlea7544qtsmj2rayg0lthvza9fau63ux0fstcz [0m
+18:09:25.318	
+18:09:25.318	[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+18:09:25.318	
+18:09:25.326	
+18:09:25.326	> esbuild@0.13.15 postinstall /opt/buildhome/repo/node_modules/esbuild
+18:09:25.326	> node install.js
+18:09:25.326	
+18:09:25.723	npm WARN barter-link@0.0.0 No description
+18:09:25.723	npm WARN barter-link@0.0.0 No repository field.
+18:09:25.723	npm WARN barter-link@0.0.0 No license field.
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.3.2 (node_modules/fsevents):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.3.2: wanted {"os":"darwin","arch":"any"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-windows-arm64@0.13.15 (node_modules/esbuild-windows-arm64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-windows-arm64@0.13.15: wanted {"os":"win32","arch":"arm64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-windows-64@0.13.15 (node_modules/esbuild-windows-64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-windows-64@0.13.15: wanted {"os":"win32","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-windows-32@0.13.15 (node_modules/esbuild-windows-32):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-windows-32@0.13.15: wanted {"os":"win32","arch":"ia32"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-sunos-64@0.13.15 (node_modules/esbuild-sunos-64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-sunos-64@0.13.15: wanted {"os":"sunos","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-openbsd-64@0.13.15 (node_modules/esbuild-openbsd-64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-openbsd-64@0.13.15: wanted {"os":"openbsd","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-netbsd-64@0.13.15 (node_modules/esbuild-netbsd-64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-netbsd-64@0.13.15: wanted {"os":"netbsd","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-linux-ppc64le@0.13.15 (node_modules/esbuild-linux-ppc64le):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-linux-ppc64le@0.13.15: wanted {"os":"linux","arch":"ppc64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-linux-mips64le@0.13.15 (node_modules/esbuild-linux-mips64le):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-linux-mips64le@0.13.15: wanted {"os":"linux","arch":"mips64el"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-linux-arm64@0.13.15 (node_modules/esbuild-linux-arm64):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-linux-arm64@0.13.15: wanted {"os":"linux","arch":"arm64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-linux-arm@0.13.15 (node_modules/esbuild-linux-arm):
+18:09:25.724	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-linux-arm@0.13.15: wanted {"os":"linux","arch":"arm"} (current: {"os":"linux","arch":"x64"})
+18:09:25.724	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-linux-32@0.13.15 (node_modules/esbuild-linux-32):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-linux-32@0.13.15: wanted {"os":"linux","arch":"ia32"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-freebsd-arm64@0.13.15 (node_modules/esbuild-freebsd-arm64):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-freebsd-arm64@0.13.15: wanted {"os":"freebsd","arch":"arm64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-freebsd-64@0.13.15 (node_modules/esbuild-freebsd-64):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-freebsd-64@0.13.15: wanted {"os":"freebsd","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-darwin-arm64@0.13.15 (node_modules/esbuild-darwin-arm64):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-darwin-arm64@0.13.15: wanted {"os":"darwin","arch":"arm64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-darwin-64@0.13.15 (node_modules/esbuild-darwin-64):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-darwin-64@0.13.15: wanted {"os":"darwin","arch":"x64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	npm WARN optional SKIPPING OPTIONAL DEPENDENCY: esbuild-android-arm64@0.13.15 (node_modules/esbuild-android-arm64):
+18:09:25.727	npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for esbuild-android-arm64@0.13.15: wanted {"os":"android","arch":"arm64"} (current: {"os":"linux","arch":"x64"})
+18:09:25.727	
+18:09:25.727	added 394 packages from 234 contributors and audited 411 packages in 7.773s
+18:09:25.875	
+18:09:25.875	100 packages are looking for funding
+18:09:25.875	  run `npm fund` for details
+18:09:25.875	
+18:09:25.876	found 0 vulnerabilities
+18:09:25.876	
+18:09:25.903	NPM modules installed
+18:09:26.105	Installing Hugo 0.54.0
+18:09:26.533	Hugo Static Site Generator v0.54.0-B1A82C61A/extended linux/amd64 BuildDate: 2019-02-01T10:04:38Z
+18:09:26.534	Started restoring cached go cache
+18:09:26.538	Finished restoring cached go cache
+18:09:26.560	go version go1.14.4 linux/amd64
+18:09:26.564	go version go1.14.4 linux/amd64
+18:09:26.566	Installing missing commands
+18:09:26.566	Verify run directory
+18:09:26.566	Executing user command: npm run build
+18:09:26.751	
+18:09:26.751	> barter-link@0.0.0 build /opt/buildhome/repo
+18:09:26.751	> vite build
+18:09:26.751	
+18:09:27.028	vite v2.7.13 building for production...
+18:09:27.099	transforming...
+18:09:27.117	✓ 2 modules transformed.
+18:09:27.117	[rollup-plugin-dynamic-import-variables] Unexpected token (9:2)
+18:09:27.117	file: /opt/buildhome/repo/src/main.js:9:2
+18:09:27.120	error during build:
+18:09:27.120	SyntaxError: Unexpected token (9:2)
+18:09:27.120	    at Parser.pp$4.raise (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:19612:13)
+18:09:27.120	    at Parser.pp$9.unexpected (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:16908:8)
+18:09:27.120	    at Parser.pp$5.parseExprAtom (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18987:10)
+18:09:27.120	    at Parser.pp$5.parseExprSubscripts (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18779:19)
+18:09:27.120	    at Parser.pp$5.parseMaybeUnary (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18745:17)
+18:09:27.120	    at Parser.pp$5.parseExprOps (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18672:19)
+18:09:27.120	    at Parser.pp$5.parseMaybeConditional (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18655:19)
+18:09:27.120	    at Parser.pp$5.parseMaybeAssign (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18622:19)
+18:09:27.120	    at Parser.pp$5.parseExprList (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:19491:18)
+18:09:27.120	    at Parser.pp$5.parseSubscript (/opt/buildhome/repo/node_modules/rollup/dist/shared/rollup.js:18841:25)
+18:09:27.127	npm ERR! code ELIFECYCLE
+18:09:27.127	npm ERR! errno 1
+18:09:27.129	npm ERR! barter-link@0.0.0 build: `vite build`
+18:09:27.129	npm ERR! Exit status 1
+18:09:27.129	npm ERR! 
+18:09:27.129	npm ERR! Failed at the barter-link@0.0.0 build script.
+18:09:27.129	npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+18:09:27.133	
+18:09:27.133	npm ERR! A complete log of this run can be found in:
+18:09:27.134	npm ERR!     /opt/buildhome/.npm/_logs/2022-01-26T12_39_27_130Z-debug.log
+18:09:27.143	Failed: build command exited with code: 1
