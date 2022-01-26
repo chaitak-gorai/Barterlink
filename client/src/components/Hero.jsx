@@ -20,7 +20,7 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
   />
 );
 
-const Welcome = () => {
+const Hero = () => {
   const { currentAccount, connectWallet, handleChange, sendTransaction, formData, isLoading } = useContext(TransactionContext);
 
   const handleSubmit = (e) => {
@@ -119,4 +119,4 @@ const Welcome = () => {
   );
 };
 
-export default Welcome;
+export default Hero;
